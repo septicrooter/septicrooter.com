@@ -503,3 +503,8 @@ img{max-width:100%}
 .rgrid.cols-5{grid-template-columns:repeat(5,1fr);gap:14px}
 @media(max-width:1000px){ .rgrid.cols-5{grid-template-columns:1fr 1fr 1fr} }
 @media(max-width:640px){ .rgrid.cols-5{grid-template-columns:1fr 1fr} }
+
+/* homepage featured service-area chips */
+.area-chips{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;max-width:880px;margin:0 auto}
+.area-chip{display:inline-block;background:#fff;border:1.5px solid var(--border);border-radius:50px;padding:9px 18px;font-weight:700;color:var(--navy);text-decoration:none;font-size:15px;transition:all .15s}
+.area-chip:hover{background:var(--red);color:#fff;border-color:var(--red);transform:translateY(-1px)}
