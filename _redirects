@@ -1,0 +1,57 @@
+# Legacy URL redirects (old Wix / Google Business listings) -> modern pages
+# Format: <old path>  <new path>  <status>
+
+/septicservice/acworthseptictank  /acworth-septic-tank-service/  301
+/septicservice/alpharettaseptictank  /alpharetta-septic-tank-service/  301
+/septicservice/athensseptictank  /athens-septic-tank-service/  301
+/septicservice/atlantaseptictank  /atlanta-septic-tank-service/  301
+/septicservice/bufordseptictank  /buford-septic-tank-service/  301
+/septicservice/cantonseptictank  /canton-septic-tank-service/  301
+/septicservice/doravilleseptictank  /doraville-septic-tank-service/  301
+/septicservice/dunwoodyseptictank  /dunwoody-septic-tank-service/  301
+/septicservice/eastcobbseptictank  /east-cobb-septic-tank-service/  301
+/septicservice/johnscreekseptictank  /johns-creek-septic-tank-service/  301
+/septicservice/lawrencevilleseptictank  /lawrenceville-septic-tank-service/  301
+/septicservice/lilburnseptictank  /lilburn-septic-tank-service/  301
+/septicservice/mariettaseptictank  /marietta-septic-tank-service/  301
+/septicservice/miltonseptictank  /milton-septic-tank-service/  301
+/septicservice/norcrossseptictank  /norcross-septic-tank-service/  301
+/septicservice/powderspringsseptictank  /powder-springs-septic-tank-service/  301
+/septicservice/sandyspringsseptictank  /sandy-springs-septic-tank-service/  301
+/septicservice/smyrnaseptictank  /smyrna-septic-tank-service/  301
+/septicservice/snellvilleseptictank  /snellville-septic-tank-service/  301
+/septicservice/stathamseptictank  /statham-septic-tank-service/  301
+/septicservice/stonemountainseptictank  /stone-mountain-septic-tank-service/  301
+/septicservice/tuckerseptictank  /tucker-septic-tank-service/  301
+/septicservice/winderseptictank  /winder-septic-tank-service/  301
+/septicservice/cherokeeseptictank  /cherokee-county-septic-tank-service/  301
+/septicservice/cobbseptictank  /cobb-county-septic-tank-service/  301
+/septicservice/dekalbseptictank  /dekalb-county-septic-tank-service/  301
+/septicservice/gwinnettseptictank  /gwinnett-county-septic-tank-service/  301
+
+# Top-level legacy pages
+/septicinstallation       /septic-replacement/   301
+/real-estate-inspections  /septic-inspections/   301
+/septicrepair             /septic-repair/        301
+/pumps                    /septic-pump-alarm/    301
+
+# Legacy Wix local folders (indexed by Google) -> modern service pages
+/localrepairs/*           /septic-repair/        301
+/local-repairs/*          /septic-repair/        301
+/local-inspections/*      /septic-inspections/   301
+/local-installations/*    /septic-replacement/   301
+/local-pumping/*          /septic-tank-service/  301
+/localpumping/*           /septic-tank-service/  301
+
+# Retired Wix sections -> most relevant modern destination
+/book                     /                      301
+/book/*                   /                      301
+/videos                   /septic-inspections/   301
+/videos/*                 /septic-inspections/   301
+/events                   /septic-inspections/   301
+/events/*                 /septic-inspections/   301
+/blog                     /                      301
+/blog/*                   /                      301
+
+# Catch-all for any unmapped legacy septicservice URL
+/septicservice/*          /septic-tank-service/  301
