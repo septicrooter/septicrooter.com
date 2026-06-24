@@ -44,6 +44,8 @@
 /localpumping/*           /septic-tank-service/  301
 
 # Retired Wix sections -> most relevant modern destination
+/about                    /                      301
+/about/                   /                      301
 /book                     /                      301
 /book/*                   /                      301
 /videos                   /septic-inspections/   301
