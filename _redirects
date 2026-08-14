@@ -44,8 +44,6 @@
 /localpumping/*           /septic-tank-service/  301
 
 # Retired Wix sections -> most relevant modern destination
-/about                    /                      301
-/about/                   /                      301
 /book                     /                      301
 /book/*                   /                      301
 /videos                   /septic-inspections/   301
@@ -54,6 +52,11 @@
 /events/*                 /septic-inspections/   301
 /blog                     /                      301
 /blog/*                   /                      301
+
+# Legacy blog recovery pages — staged rollout
+/post/chamber-drain-fields  /homeowner-guide/chamber-drain-fields-georgia/  301
+# STAGED, DO NOT ENABLE YET: /post/waste-disposal-methods  /homeowner-guide/what-not-to-put-in-a-septic-system/  301
+# STAGED, DO NOT ENABLE YET: /post/how-chemical-additives-like-rid-x-can-wreak-havoc-on-your-septic-system  /homeowner-guide/are-septic-additives-like-rid-x-safe/  301
 
 # Catch-all for any unmapped legacy septicservice URL
 /septicservice/*          /septic-tank-service/  301
