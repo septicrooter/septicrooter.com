@@ -405,6 +405,9 @@ img{max-width:100%}
 .inline-call-cta-inner{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;max-width:1000px;margin:0 auto}
 .inline-call-title{font-family:"Barlow Condensed",Arial,sans-serif;font-weight:800;font-size:26px;color:#fff;line-height:1.1}
 .inline-call-sub{color:rgba(255,255,255,.66);font-size:14px;margin-top:4px}
+.inline-call-actions{display:flex;align-items:center;justify-content:flex-end;gap:12px;flex-wrap:wrap}
+.inline-service-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:58px;border:2px solid rgba(255,255,255,.72);color:#fff;text-decoration:none;padding:12px 20px;border-radius:12px;font-family:"Barlow Condensed",Arial,sans-serif;font-size:18px;font-weight:800;letter-spacing:.01em;white-space:nowrap;transition:background .2s,color .2s,border-color .2s}
+.inline-service-btn:hover{background:#fff;border-color:#fff;color:var(--navy)}
 .inline-call-btn{display:inline-flex;align-items:center;gap:10px;background:var(--red);color:#fff;text-decoration:none;padding:14px 28px;border-radius:12px;font-family:"Barlow Condensed",Arial,sans-serif;font-size:30px;font-weight:900;white-space:nowrap}
 .inline-call-btn:hover{background:var(--red-hover)}.inline-call-btn img{width:22px;height:22px;filter:brightness(10)}
 /* compare (replacement) */
@@ -458,7 +461,9 @@ img{max-width:100%}
  .steps-grid{grid-template-columns:1fr 1fr}.so-band{grid-template-columns:1fr}
  .sr-checklist{flex-direction:column}.sr-checklist .cl-img{width:100%;height:auto;aspect-ratio:38/57;max-width:380px;margin:0 auto}.sr-checklist .cl-img img{object-position:center}.cl-grid{grid-template-columns:1fr}
  .inline-call-cta-inner{flex-direction:column;text-align:center}
+ .inline-call-actions{justify-content:center;width:100%}
 }
+@media(max-width:560px){.inline-call-actions{flex-direction:column}.inline-service-btn,.inline-call-btn{width:100%;max-width:360px}.inline-call-btn{justify-content:center;font-size:27px}}
 
 /* ===== county catch-all: cities we serve ===== */
 .county-cities{margin-top:28px;padding-top:24px;border-top:1px solid var(--border)}
