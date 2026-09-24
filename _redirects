@@ -43,6 +43,52 @@
 /septicrepair             /septic-repair/        301
 /pumps                    /septic-pump-alarm/    301
 
+# City-page consolidation pilot: specialized pages -> retained city service hubs
+/dawson-county-septic-repair/       /dawson-county-septic-tank-service/       301
+/dawson-county-septic-replacement/  /dawson-county-septic-tank-service/       301
+/dawson-county-septic-pumping/      /dawson-county-septic-tank-service/       301
+/dawson-county-septic-pump-alarm/   /dawson-county-septic-tank-service/       301
+/conley-septic-repair/              /conley-septic-tank-service/              301
+/conley-septic-replacement/         /conley-septic-tank-service/              301
+/conley-septic-pumping/             /conley-septic-tank-service/              301
+/conley-septic-pump-alarm/          /conley-septic-tank-service/              301
+/carroll-county-septic-repair/      /carroll-county-septic-tank-service/      301
+/carroll-county-septic-replacement/ /carroll-county-septic-tank-service/      301
+/carroll-county-septic-pumping/     /carroll-county-septic-tank-service/      301
+/carroll-county-septic-pump-alarm/  /carroll-county-septic-tank-service/      301
+/brookhaven-septic-repair/          /brookhaven-septic-tank-service/          301
+/brookhaven-septic-replacement/     /brookhaven-septic-tank-service/          301
+/brookhaven-septic-pumping/         /brookhaven-septic-tank-service/          301
+/brookhaven-septic-pump-alarm/      /brookhaven-septic-tank-service/          301
+/suwanee-septic-repair/             /suwanee-septic-tank-service/             301
+/suwanee-septic-replacement/        /suwanee-septic-tank-service/             301
+/suwanee-septic-pumping/            /suwanee-septic-tank-service/             301
+/suwanee-septic-pump-alarm/         /suwanee-septic-tank-service/             301
+/berkeley-lake-septic-repair/       /berkeley-lake-septic-tank-service/       301
+/berkeley-lake-septic-replacement/  /berkeley-lake-septic-tank-service/       301
+/berkeley-lake-septic-pumping/      /berkeley-lake-septic-tank-service/       301
+/berkeley-lake-septic-pump-alarm/   /berkeley-lake-septic-tank-service/       301
+/douglas-county-septic-repair/      /douglas-county-septic-tank-service/      301
+/douglas-county-septic-replacement/ /douglas-county-septic-tank-service/      301
+/douglas-county-septic-pumping/     /douglas-county-septic-tank-service/      301
+/douglas-county-septic-pump-alarm/  /douglas-county-septic-tank-service/      301
+/newton-county-septic-repair/       /newton-county-septic-tank-service/       301
+/newton-county-septic-replacement/  /newton-county-septic-tank-service/       301
+/newton-county-septic-pumping/      /newton-county-septic-tank-service/       301
+/newton-county-septic-pump-alarm/   /newton-county-septic-tank-service/       301
+/jackson-county-septic-repair/      /jackson-county-septic-tank-service/      301
+/jackson-county-septic-replacement/ /jackson-county-septic-tank-service/      301
+/jackson-county-septic-pumping/     /jackson-county-septic-tank-service/      301
+/jackson-county-septic-pump-alarm/  /jackson-county-septic-tank-service/      301
+/jefferson-septic-repair/           /jefferson-septic-tank-service/           301
+/jefferson-septic-replacement/      /jefferson-septic-tank-service/           301
+/jefferson-septic-pumping/          /jefferson-septic-tank-service/           301
+/jefferson-septic-pump-alarm/       /jefferson-septic-tank-service/           301
+/senoia-septic-repair/              /senoia-septic-tank-service/              301
+/senoia-septic-replacement/         /senoia-septic-tank-service/              301
+/senoia-septic-pumping/             /senoia-septic-tank-service/              301
+/senoia-septic-pump-alarm/          /senoia-septic-tank-service/              301
+
 # Legacy Wix local folders (indexed by Google) -> modern service pages
 /local-installations/austell-septic-installations  /austell-septic-replacement/  301
 /local-installations/dacula-septic-installations  /dacula-septic-replacement/  301
