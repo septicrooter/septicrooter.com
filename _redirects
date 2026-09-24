@@ -7,16 +7,22 @@
 /septicservice/atlantaseptictank  /atlanta-septic-tank-service/  301
 /septicservice/bufordseptictank  /buford-septic-tank-service/  301
 /septicservice/cantonseptictank  /canton-septic-tank-service/  301
+/septicservice/carrolltonseptictank  /carrollton-septic-tank-service/  301
+/septicservice/cummingseptictank  /cumming-septic-tank-service/  301
 /septicservice/doravilleseptictank  /doraville-septic-tank-service/  301
 /septicservice/dunwoodyseptictank  /dunwoody-septic-tank-service/  301
 /septicservice/eastcobbseptictank  /east-cobb-septic-tank-service/  301
+/septicservice/fairburnseptictank  /fairburn-septic-tank-service/  301
 /septicservice/johnscreekseptictank  /johns-creek-septic-tank-service/  301
 /septicservice/lawrencevilleseptictank  /lawrenceville-septic-tank-service/  301
 /septicservice/lilburnseptictank  /lilburn-septic-tank-service/  301
+/septicservice/lithiaspringsseptictank  /lithia-springs-septic-tank-service/  301
+/septicservice/loganvilleseptictank  /loganville-septic-tank-service/  301
 /septicservice/mariettaseptictank  /marietta-septic-tank-service/  301
 /septicservice/miltonseptictank  /milton-septic-tank-service/  301
 /septicservice/norcrossseptictank  /norcross-septic-tank-service/  301
 /septicservice/powderspringsseptictank  /powder-springs-septic-tank-service/  301
+/septicservice/roswellseptictank  /roswell-septic-tank-service/  301
 /septicservice/sandyspringsseptictank  /sandy-springs-septic-tank-service/  301
 /septicservice/smyrnaseptictank  /smyrna-septic-tank-service/  301
 /septicservice/snellvilleseptictank  /snellville-septic-tank-service/  301
@@ -53,10 +59,13 @@
 /blog                     /                      301
 /blog/*                   /                      301
 
-# Legacy blog recovery pages — staged rollout
+# Legacy blog recovery pages
 /post/chamber-drain-fields  /homeowner-guide/chamber-drain-fields-georgia/  301
-# STAGED, DO NOT ENABLE YET: /post/waste-disposal-methods  /homeowner-guide/what-not-to-put-in-a-septic-system/  301
-# STAGED, DO NOT ENABLE YET: /post/how-chemical-additives-like-rid-x-can-wreak-havoc-on-your-septic-system  /homeowner-guide/are-septic-additives-like-rid-x-safe/  301
+/post/waste-disposal-methods  /homeowner-guide/what-not-to-put-in-a-septic-system/  301
+/post/how-chemical-additives-like-rid-x-can-wreak-havoc-on-your-septic-system  /homeowner-guide/are-septic-additives-like-rid-x-safe/  301
+/post/why-just-pumping-your-septic-tank-won-t-solve-your-drainage-issues-the-surprising-truth  /homeowner-guide/drains-backing-up-after-septic-pumping/  301
+/post/septic-tank-inspection-blog  /septic-inspections/  301
+/post/roots-gone-wild-how-trees-can-wreak-havoc-on-your-septic-system  /homeowner-guide/why-are-my-drains-backing-up/  301
 
 # Catch-all for any unmapped legacy septicservice URL
 /septicservice/*          /septic-tank-service/  301
